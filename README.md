@@ -2,6 +2,8 @@
 
 Para el servidor se utilizó mongodb, por lo que deben configurar en atlas una db y luego agregar la conexion en "server/.env"
 
+# Levantar servidor
+  npm run dev, para iniciar con nodemon
 
 ## Importante
 
